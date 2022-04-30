@@ -1,7 +1,7 @@
 title: One Grizzled Developer
 author: P. Komkai
 email: alyerin@gmail.com
-theme: minima
+theme: jekyll-theme-merlot
 description: > # this means to ignore newlines until "baseurl:"
   Can't really think of much of a description for this blog, since it hasn't really taken off yet.
   Maybe someday I'll come back and change this to something more meaningful.
